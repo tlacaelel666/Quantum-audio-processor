@@ -1,0 +1,8 @@
+{
+  "name": "Quantum Audio Processor",
+  "description": "An application that visualizes and interprets audio from the microphone, analyzing it through a realistic consciousness framework using FFT, ML feature extraction, and Mahalanobis distance.Build an innovative AI-powered application using Redis as your real-time data layer. We want to see you go beyond simple chatbots and explore high-impact use cases like vector search-driven by the bayesian methodology implementation, for prediction and recommendations, semantic caching to optimize LLM performance, or real-time feature streaming for ML workflows. Show us how Redis accelerates the future of AI.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "prompt": ""
+}
